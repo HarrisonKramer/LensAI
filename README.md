@@ -25,7 +25,7 @@ By integrating AI methodologies into optics, we aim to improve the efficiency an
 
 This repository is built on top of the following dependencies:
 
-- [Optiland](https://github.com/HarrisonKramer/optiland) - For performing optical system simulations and analyses.
+- [optiland](https://github.com/HarrisonKramer/optiland) - For performing optical system simulations and analyses.
 - [numpy](https://numpy.org/) - Fundamental package for numerical computation.
 - [scipy](https://scipy.org/) - Optimization and scientific functions.
 - [scikit-learn](https://scikit-learn.org/stable/index.html) - Machine learning algorithms.
