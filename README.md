@@ -43,21 +43,22 @@ To install the necessary packages, run the following command:
 
 Explore the various examples in the [Notebooks](https://github.com/HarrisonKramer/notebooks) directory or run the examples yourself by cloning the repository and installing the required dependencies:
 
-To begin, clone the repository and install the required dependencies:
 ```sh
 > git clone https://github.com/HarrisonKramer/LensAI.git
 > cd LensAI
 > pip install -r requirements.txt
 ```
 
-Navigate to a Jupyter notebook file and open in your favorite editor.
+Navigate to a Jupyter notebook file and open in your favorite editor (e.g., [Visual Studio Code](https://code.visualstudio.com/)).
 
 Note that if you wish to use PyTorch with cuda support, please install torch by following the steps on the [PyTorch website](https://pytorch.org/get-started/locally/).
 
 # Contributing
 
-Contributions are welcome! If you have new ideas for optical studies using machine learning or deep learning, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have new ideas for optical studies using machine learning or deep learning, feel free to [open an issue](https://github.com/HarrisonKramer/LensAI/issues) or [submit a pull request](https://github.com/HarrisonKramer/LensAI/pulls).
 
 # Contact
+
+If you have any remarks, requests, issues, or suggestions, please feel free to [open an issue](https://github.com/HarrisonKramer/LensAI/issues) on the repository.
 
 Kramer Harrison - kdanielharrison@gmail.com
