@@ -1,1 +1,5 @@
 **/scripts/
+.venv/
+Example_3/
+**/zmx_files/
+**/data/
