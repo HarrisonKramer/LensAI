@@ -169,7 +169,7 @@
        style="color-interpolation-filters:sRGB"
        id="filter153"
        x="-0.012414878"
-       y="-0.040174129"
+       y="-0.040174128"
        width="1.025061"
        height="1.0801477"><feGaussianBlur
          inkscape:collect="always"
@@ -179,7 +179,7 @@
        style="color-interpolation-filters:sRGB"
        id="filter154"
        x="-0.014280499"
-       y="-0.032916778"
+       y="-0.032916777"
        width="1.0286145"
        height="1.0656671"><feGaussianBlur
          inkscape:collect="always"
@@ -556,7 +556,7 @@
        id="path57"
        inkscape:label="field 1" /><path
        style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1.757;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter153)"
-       d="m 32.546098,166.59391 117.461992,-24.76835 58.16809,3.00223 55.16586,-16.13696 287.08764,-45.033355 -287.08764,104.702555 -55.16586,5.25389 -55.91642,27.02001 -118.963106,40.15475"
+       d="m 32.546098,167.09427 117.461992,-24.76835 58.16809,3.00223 55.16586,-16.13696 287.08764,-45.033359 -287.08764,104.702559 -55.16586,5.25389 -55.91642,27.02001 -118.963106,40.15475"
        id="path57-2"
        inkscape:label="field 1 glow" /><path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffff00;stroke-width:1.757;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
@@ -564,7 +564,7 @@
        id="path56"
        inkscape:label="field 2" /><path
        style="mix-blend-mode:normal;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffff00;stroke-width:1.757;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;filter:url(#filter154)"
-       d="M 33.246216,196.85475 148.45655,152.19667 208.50103,143.56528 260.66467,123.30027 549.6287,41.489677 263.29161,178.09085 206.62464,194.2278 152.20934,228.75337 33.246216,280.54173"
+       d="M 33.246216,197.55464 148.45655,152.89656 208.50103,144.26517 260.66467,124.00016 549.6287,42.189562 263.29161,178.79074 206.62464,194.92769 152.20934,229.45326 33.246216,281.24162"
        id="path56-3"
        inkscape:label="field 2 glow" /><path
        style="display:inline;fill:url(#radialGradient36);stroke:#004f80;stroke-opacity:1"
