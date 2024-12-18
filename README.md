@@ -63,8 +63,8 @@ Note that if you wish to use PyTorch with cuda support, please install torch by 
 Contributions are welcome! If you have new ideas for optical studies using machine learning or deep learning, feel free to [open an issue](https://github.com/HarrisonKramer/LensAI/issues) or [submit a pull request](https://github.com/HarrisonKramer/LensAI/pulls).
 
 # References
-1. Yow, A.P., Wong, D., Zhang, Y. et al. Artificial intelligence in optical lens design. Artif Intell Rev 57, 193 (2024). https://doi.org/10.1007/s10462-024-10842-y
-2. Tong Yang, Dewen Cheng, and Yongtian Wang, "Designing freeform imaging systems based on reinforcement learning," Opt. Express 28, 30309-30323 (2020)
+1. Yow, A.P., Wong, D., Zhang, Y. et al. Artificial intelligence in optical lens design. Artif Intell Rev 57, 193 (2024).
+2. Tong Yang, Dewen Cheng, and Yongtian Wang, "Designing freeform imaging systems based on reinforcement learning," Opt. Express 28, 30309-30323 (2020).
 3. Bentley, J., Olson, C., & Society of Photo-Optical Instrumentation Engineers. (2012). Field guide to lens design. SPIE
 4. Greivenkamp, J. E., & Society of Photo-Optical Instrumentation Engineers. (2004). Field guide to geometrical optics. SPIE
 5. Côté G, Lalonde J-F, Thibault S (2019a) Extrapolating from lens design databases using deep learning. Opt Express 27(20):28279–28292
