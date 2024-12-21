@@ -100,6 +100,6 @@ Contributions are welcome! If you have new ideas for optical studies using machi
 
 # Contact
 
-If you have any remarks, requests, issues, or suggestions, please feel free to [open an issue](https://github.com/HarrisonKramer/LensAI/issues) in the repository.
+If you have any remarks, requests, issues, suggestions, or find a bug/mistake, please feel free to [open an issue](https://github.com/HarrisonKramer/LensAI/issues) in the repository.
 
 Kramer Harrison - kdanielharrison@gmail.com
