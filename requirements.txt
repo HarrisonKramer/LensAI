@@ -6,3 +6,4 @@ scikit-learn
 seaborn
 tqdm
 torch
+imbalanced-learn
