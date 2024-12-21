@@ -65,19 +65,14 @@ This repository is built on top of the following dependencies:
 - [tqdm](https://tqdm.github.io/) - Progress bars in Jupyter notebooks.
 - [imblearn](https://imbalanced-learn.org/stable/) - Resample imbalanced datasets.
 
-To install the necessary packages, run the following command:
-```sh
-> pip install -r requirements.txt
-```
-
 # Getting Started
 
 Explore the various examples in the [Notebooks](https://github.com/HarrisonKramer/notebooks) directory or run the examples yourself by cloning the repository and installing the required dependencies:
 
 ```sh
-> git clone https://github.com/HarrisonKramer/LensAI.git
-> cd LensAI
-> pip install -r requirements.txt
+git clone https://github.com/HarrisonKramer/LensAI.git
+cd LensAI
+pip install -r requirements.txt
 ```
 
 Navigate to a Jupyter notebook file and open in your favorite editor (e.g., [Visual Studio Code](https://code.visualstudio.com/)).
