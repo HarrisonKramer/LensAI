@@ -62,6 +62,8 @@ This repository is built on top of the following dependencies:
 - [matplotlib](https://matplotlib.org/) - Plotting and visualization.
 - [pandas](https://pandas.pydata.org/) - Data manipulation and analysis.
 - [seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
+- [tqdm](https://tqdm.github.io/) - Progress bars in Jupyter notebooks.
+- [imblearn](https://imbalanced-learn.org/stable/) - Resample imbalanced datasets.
 
 To install the necessary packages, run the following command:
 ```sh
