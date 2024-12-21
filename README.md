@@ -13,7 +13,7 @@ Welcome to **LensAI**, a collection of studies where machine learning (ML) and d
 
 # Overview
 
-This repository contains a series of Jupyter notebooks exploring how ML and DL can be used to enhance and automate various tasks in optical engineering, including but not limited to:
+This repository contains a series of Jupyter notebooks exploring how ML and DL can be used to enhance and automate various tasks in optical engineering. Topics of interest include:
 
 - Lens Design Optimization
 - Aberration Classification and Correction
@@ -23,8 +23,32 @@ This repository contains a series of Jupyter notebooks exploring how ML and DL c
 - Generative Lens Design
 - Super-resolution Applications in Wavefront Detection
 - Deep Learning for Optimal Tolerance Sensitivities
+- Surrogate Models for Raytracing
 
 By integrating AI methodologies into optics, we aim to improve the efficiency and innovation in optical system design, from faster optimizations to generating new designs.
+
+## Notebook Summaries
+
+The following is an overview of existing, in progress, and planned studies:
+
+- **Random Forest Regressor to Predict Optimal Lens Properties**
+  - Demonstrates how to build and train a random forest regressor to predict the radius of curvature of a plano-convex lens in order to minimize the RMS spot size.
+- **Ray Path Failure Classification Model**
+  - Uses logistic regression to predict ray path failures in a Cooke triplet design.
+- **Surrogate Ray Tracing Model Using Neural Networks**
+  - Builds a neural network surrogate ray tracing model to increase effective "ray tracing" speed by 10,000x.
+- **Super-Resolution Generative Adversarial Network to Enhance Wavefront Map Data**
+  - Utilizes a super-resolution GAN (SRGAN) to upscale low-resolution wavefront data into high-resolution data.
+- **Convolutional Neural Networks for Prediction of Lens Alignment Correction** - in progress
+  - Uses a CNN to predict alignment state of lens elements in a triplet design based on wavefront map data.
+- **Reinforcement Learning for Direct Optimization of Lens Systems** - planned
+- **Reinforcement Learning for Generating New Lens Starting Point Designs** - planned
+- **Neural Network for Prediction of Lens Seidel Aberration Coefficients from Surface Data** - planned
+- **Generative Adversarial Networks for Extrapolating New Lens Starting Point Designs** - planned
+- **Regression Model to Extrapolate Aberration Performance Across Spectral Bands** - planned
+- **Autoencoders for Wavefront Data Compression** - planned
+- **_Insert Your Idea Here_** - if you have an idea for a notebook, consider [opening an issue](https://github.com/HarrisonKramer/LensAI/issues) or [submitting a pull request](https://github.com/HarrisonKramer/LensAI/pulls).
+
 
 # Dependencies
 
