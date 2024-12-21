@@ -31,13 +31,13 @@ By integrating AI methodologies into optics, we aim to improve the efficiency an
 
 The following is an overview of existing, in progress, and planned studies:
 
-- **Random Forest Regressor to Predict Optimal Lens Properties**
+- [**Random Forest Regressor to Predict Optimal Lens Properties**](https://github.com/HarrisonKramer/LensAI/blob/main/notebooks/Example_1/Singlet_RF_Model_RMS_Spot_Size.ipynb)
   - Demonstrates how to build and train a random forest regressor to predict the radius of curvature of a plano-convex lens in order to minimize the RMS spot size.
-- **Ray Path Failure Classification Model**
+- [**Ray Path Failure Classification Model**](https://github.com/HarrisonKramer/LensAI/blob/main/notebooks/Example_2/Ray_Path_Failure_Classification_Model.ipynb)
   - Uses logistic regression to predict ray path failures in a Cooke triplet design.
-- **Surrogate Ray Tracing Model Using Neural Networks**
+- [**Surrogate Ray Tracing Model Using Neural Networks**](https://github.com/HarrisonKramer/LensAI/blob/main/notebooks/Example_3/Double_Gauss_Surrogate_Model.ipynb)
   - Builds a neural network surrogate ray tracing model to increase effective "ray tracing" speed by 10,000x.
-- **Super-Resolution Generative Adversarial Network to Enhance Wavefront Map Data**
+- [**Super-Resolution Generative Adversarial Network to Enhance Wavefront Map Data**](https://github.com/HarrisonKramer/LensAI/blob/main/notebooks/Example_5/SR_GAN_for_wavefront_data.ipynb)
   - Utilizes a super-resolution GAN (SRGAN) to upscale low-resolution wavefront data into high-resolution data.
 - **Convolutional Neural Networks for Prediction of Lens Alignment Correction** - in progress
   - Uses a CNN to predict alignment state of lens elements in a triplet design based on wavefront map data.
