@@ -67,7 +67,7 @@ This repository is built on top of the following dependencies:
 
 # Getting Started
 
-Explore the various examples in the [Notebooks](https://github.com/HarrisonKramer/notebooks) directory or run the examples yourself by cloning the repository and installing the required dependencies:
+Explore the various examples in the [Notebooks](https://github.com/HarrisonKramer/LensAI/tree/main/notebooks) directory or run the examples yourself by cloning the repository and installing the required dependencies:
 
 ```sh
 git clone https://github.com/HarrisonKramer/LensAI.git
