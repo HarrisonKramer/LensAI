@@ -41,9 +41,10 @@ The following is an overview of existing, in progress, and planned studies:
   - Utilizes a super-resolution GAN (SRGAN) to upscale low-resolution wavefront data into high-resolution data.
 - [**Optimization of Aspheric Lenses via Reinforcement Learning**](https://github.com/HarrisonKramer/LensAI/blob/main/notebooks/Example_4/RL_aspheric_singlet.ipynb)
   - Reinforcement learning is applied to the optimization of aspheric singlet lenses to generate new lens designs.
-- **Convolutional Neural Networks for Prediction of Lens Alignment Correction** - in progress
-  - Uses a CNN to predict alignment state of lens elements in a triplet design based on wavefront map data.
+- [**Regression Models for Lens Misalignment Prediction Using Wavefront Map Data**](https://github.com/HarrisonKramer/LensAI/blob/main/notebooks/Example_6/Misalignment_Prediction_Cooke_Triplet.ipynb)
+  - Investigate various regression models to predict lens misalignment in a Cooke triplet design.
 - **Reinforcement Learning for Generating New Lens Starting Point Designs** - planned
+- **Diffusion Models for Generative Lens Design** - planned
 - **Neural Network for Prediction of Lens Seidel Aberration Coefficients from Surface Data** - planned
 - **Generative Adversarial Networks for Extrapolating New Lens Starting Point Designs** - planned
 - **Regression Model to Extrapolate Aberration Performance Across Spectral Bands** - planned
