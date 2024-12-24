@@ -66,6 +66,8 @@ This repository is built on top of the following dependencies:
 - [seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
 - [tqdm](https://tqdm.github.io/) - Progress bars in Jupyter notebooks.
 - [imblearn](https://imbalanced-learn.org/stable/) - Resample imbalanced datasets.
+- [gymnasium](https://gymnasium.farama.org/) - Standard API for reinforcement learning
+- [stable-baselines3](https://stable-baselines3.readthedocs.io/en/master/) - Reinforcement learning algorithms in PyTorch.
 
 # Getting Started
 
