@@ -7,3 +7,5 @@ seaborn
 tqdm
 torch
 imbalanced-learn
+gymnasium
+stable-baselines3
