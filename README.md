@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/HarrisonKramer/LensAI">
-    <img src="images/lensai.svg" alt="Optiland">
+    <img src="images/lensai.svg" alt="LensAI">
   </a>
 </div>
 
@@ -24,6 +24,7 @@ This repository contains a series of Jupyter notebooks exploring how ML and DL c
 - Super-resolution Applications in Wavefront Detection
 - Deep Learning for Optimal Tolerance Sensitivities
 - Surrogate Models for Raytracing
+- Latent Space Modeling of Optical Materials
 
 By integrating AI methodologies into optics, we aim to improve the efficiency and innovation in optical system design, from faster optimizations to generating new designs.
 
@@ -43,6 +44,8 @@ The following is an overview of existing, in progress, and planned studies:
   - Reinforcement learning is applied to the optimization of aspheric singlet lenses to generate new lens designs.
 - [**Regression Models for Lens Misalignment Prediction Using Wavefront Map Data**](https://github.com/HarrisonKramer/LensAI/blob/main/notebooks/Example_6/Misalignment_Prediction_Cooke_Triplet.ipynb)
   - Investigate various regression models to predict lens misalignment in a Cooke triplet design.
+- [**Latent Space Modeling of Optical Glass using Variational Autoencoders (VAEs)**](https://github.com/HarrisonKramer/LensAI/blob/main/notebooks/Glass_VAE/2_train_VAE_.ipynb)
+  - Implements a Physics-Informed VAE (PINN) that maps discrete optical glass catalogs into a continuous, differentiable latent space. This enables the use of gradient-based optimization for material selection in lens design.
 - **Reinforcement Learning for Generating New Lens Starting Point Designs** - planned
 - **Diffusion Models for Generative Lens Design** - planned
 - **Neural Network for Prediction of Lens Seidel Aberration Coefficients from Surface Data** - planned
